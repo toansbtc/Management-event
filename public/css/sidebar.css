@@ -1,0 +1,15 @@
+#sidebar>ul>li>a:hover{
+    text-decoration: none;
+}
+#sidebar>ul>li h5:hover{
+    width: auto;
+    height: 50px;
+    padding-left: 35px;
+    background-color: papayawhip;
+    color: black;
+}
+#sidebar>ul>li>a>h5{
+    padding-top: 10px;
+    padding-left: 25px;
+    color: floralwhite;
+}
